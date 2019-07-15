@@ -1,0 +1,10 @@
+2019-07-13 23:53:07,961 [main] INFO  [design.DesignApplication] - App正在运行 
+2019-07-14 11:31:01,333 [main] INFO  [design.DesignApplication] - App正在运行 
+2019-07-14 11:31:01,334 [main] DEBUG [design.DesignApplication] - log4j正在运行 
+2019-07-14 11:33:23,584 [main] INFO  [design.DesignApplication] design.DesignApplication.main(DesignApplication.java:18) - App正在运行 
+2019-07-14 11:33:23,587 [main] DEBUG [design.DesignApplication] design.DesignApplication.main(DesignApplication.java:19) - log4j正在运行 
+2019-07-14 11:34:16,278 [main] INFO  [design.DesignApplication.main(DesignApplication.java:18)]2019-07-14 11:34:16,284 [main] DEBUG [design.DesignApplication.main(DesignApplication.java:19)]2019-07-14 11:38:37,960 [main] INFO  [design.DesignApplication.main(DesignApplication.java:18)] - App正在运行 
+2019-07-14 11:38:37,963 [main] DEBUG [design.DesignApplication.main(DesignApplication.java:19)] - log4j正在运行 
+2019-07-14 13:24:10,345 [main] INFO  [DesignApplication.main(DesignApplication.java:16)] - App正在运行 
+2019-07-14 13:24:10,347 [main] DEBUG [DesignApplication.main(DesignApplication.java:17)] - log4j正在运行 
+2019-07-15 22:44:34,790 [main] DEBUG [design.AppTest.testApp(AppTest.java:21)] - testApp 
